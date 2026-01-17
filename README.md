@@ -170,7 +170,7 @@ Once connected, you can ask Claude to:
 
 - 📧 **Email:** support@reportdash.com
 - 📖 **Documentation:** https://docs.reportdash.com
-- 💬 **Community:** https://community.reportdash.com
+- 💬 **App:** https://datastore.reportdash.com
 - 🐛 **Report Issues:** https://github.com/reportdash/datastore-mcp-claude-desktop/issues
 
 ---
