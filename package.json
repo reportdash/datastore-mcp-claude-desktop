@@ -1,0 +1,33 @@
+{
+  "name": "reportdash-datastore-mcp-claude-desktop",
+  "version": "1.0.13",
+  "description": "ReportDash DataStore MCP server for Claude Desktop",
+  "main": "index.js",
+  "bin": {
+    "reportdash-datastore-mcp": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "reportdash",
+    "datastore",
+    "analytics",
+    "reporting"
+  ],
+  "author": "ReportDash",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reportdash/datastore-mcp-claude-desktop.git"
+  },
+  "homepage": "https://reportdash.com",
+  "bugs": {
+    "url": "https://github.com/reportdash/datastore-mcp-claude-desktop/issues"
+  }
+}
