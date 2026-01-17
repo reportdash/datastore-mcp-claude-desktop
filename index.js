@@ -19,7 +19,7 @@ if (!API_KEY) {
       error: {
         code: -32600,
         message:
-          'REPORTDASH_API_KEY environment variable is required. Get your API key from ReportDash DataStore > Destinations > API Access.',
+          'REPORTDASH_API_KEY environment variable is required. Get your API key from ReportDash DataStore (https://datastore.reportdash.com)> Destinations > API Access.',
       },
       id: null,
     }) + '\n'
@@ -290,7 +290,7 @@ function testConnection() {
         console.log('❌ Connection failed');
         console.log(`Status: ${res.statusCode}`);
         console.log(`Response: ${data}`);
-        console.log('\n💡 Check your API key in ReportDash DataStore > Destinations > API Access');
+        console.log('\n💡 Check your API key in ReportDash DataStore (https://datastore.reportdash.com)> Destinations > API Access');
       }
     });
   });
