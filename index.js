@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// goto folder, increment version then run > npm publish --access public
+// goto folder, increment version then run > npm login;npm publish --access public
 
 const https = require('https');
 const http = require('http');
