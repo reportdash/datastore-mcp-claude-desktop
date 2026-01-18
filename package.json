@@ -1,6 +1,6 @@
 {
   "name": "reportdash-datastore-mcp-claude-desktop",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "description": "ReportDash DataStore MCP server for Claude Desktop",
   "main": "index.js",
   "bin": {

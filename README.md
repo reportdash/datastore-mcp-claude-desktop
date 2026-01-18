@@ -15,7 +15,7 @@ Connect your ReportDash DataStore sources to Claude Desktop in 5 minutes.
 1. Open ReportDash DataStore app (https://datastore.reportdash.com)
 2. Go to **Destinations** → **API Access**
 3. Click **"Generate New Key"**
-4. Copy the API key (starts with `rd_...`)
+4. Copy the API key (starts with `ds_...`)
 
 ### Step 2: Configure Claude Desktop
 
